@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yusei
 - 👀 I’m interested in Blockchain technology
 
+![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuseirf&layout=compact&theme=radical)<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuseirf&theme=black-ice&border_radius=30&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuseirf&layout=compact&theme=radical)
 
 <!-- <p align="left"> -->
   <a href="https://github.com/yuseirf/yuseirf">
